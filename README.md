@@ -3,7 +3,7 @@
 <img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
-<p>🔭 I'm currently working on Product & Technical management</p>
+<p>🔭 I'm currently working on Product & Technical management of eCommerce Super App</p>
 <p>🌱 I'm currently learning FigJam</p>
 <p>💬 Ask me about Software product dev</p>
 <p>📫 How to reach me? ledxon1014@gmail.com</p>
