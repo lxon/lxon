@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Shaun.tan
 
-<img width="100%" src="https://images.unsplash.com/photo-1605379399642-870262d3d051?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1206" alt="my banner">
+<img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Product & Technical management</p>
